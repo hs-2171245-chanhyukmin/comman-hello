@@ -1,2 +1,5 @@
 this is practice
 this is a second practice
+For command line git tutorial
+practice.txt file is emdned
+
