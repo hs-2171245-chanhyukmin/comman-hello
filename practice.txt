@@ -4,3 +4,5 @@ For command line git tutorial
 practice.txt file is emdned
 
 git pull master practice
+dfdsfsdfsdf
+sadfsdfsd
